@@ -1,0 +1,7 @@
+streamlit==0.78.0
+pandas==1.2.3
+bokeh==2.3.0
+yfinance==0.1.55
+altair==4.1.0
+finvizfinance==0.9.3
+fredapi==0.4.3
